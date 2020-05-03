@@ -1,3 +1,3 @@
 # hello-world
-First repository
-Blackpanda
+
+hello, world! This is Blackpanda and I love computers!
